@@ -1,0 +1,50 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+}
+.time {
+  font-size: 14px;
+  font-weight: bold;
+  color: #64748b;
+  padding-right: 60px;
+}
+.logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+  margin-top: 14px;
+}
+
+.img-container {
+  display: flex;
+}
+.title-container {
+  display: flex;
+}
+.title {
+  color: #475569;
+  font-size: 15px;
+  font-weight: bold;
+  padding-right: 10px;
+}
+.domain-url {
+  color: #64748b;
+  font-size: 13px;
+  font-weight: 500;
+  padding-top: 5px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+.img-url {
+  height: 25px;
+  width: 25px;
+  color: #475569;
+}
